@@ -6,6 +6,8 @@ Site du tuto : https://blog.guillaume-gomez.fr/Rust/
 
 Rust en ligne : https://play.rust-lang.org/
 
+Tuto officiel : https://doc.rust-lang.org/book/
+
 ### Hello world
 
 ```rust
